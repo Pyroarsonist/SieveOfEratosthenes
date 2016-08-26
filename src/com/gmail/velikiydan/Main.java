@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        //test comment,so i can test version on Github
         Scanner sc = new Scanner(System.in);
         System.out.println("Please,enter a number,so we can find prime numbers: ");
         int limit = sc.nextInt();
